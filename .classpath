@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="libraris/jdom-2.0.6/jdom-2.0.6-contrib.jar"/>
+	<classpathentry kind="lib" path="libraris/jdom-2.0.6/jdom-2.0.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="libraris/jdom-2.0.6/jdom-2.0.6-junit.jar"/>
+	<classpathentry kind="lib" path="libraris/jdom-2.0.6/jdom-2.0.6-sources.jar"/>
+	<classpathentry kind="lib" path="libraris/jdom-2.0.6/jdom-2.0.6.jar"/>
+	<classpathentry kind="lib" path="libraris/activemq-all-5.14.1.jar"/>
+	<classpathentry kind="lib" path="libraris/jaxen-1.1.6.jar"/>
+	<classpathentry kind="lib" path="libraris/sqlite-jdbc-3.14.2.1.jar"/>
+	<classpathentry kind="lib" path="libraris/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="libraris/xml-apis.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
